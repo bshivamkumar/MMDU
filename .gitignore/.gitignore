@@ -1,0 +1,2287 @@
+<!doctype html>
+<html lang="en">
+    <head>       
+        <!-- Basic -->
+        <title>MMDU, Mullana - North Indias Best University in Mullana, Ambala, Haryana</title>
+        <link rel="Shortcut Icon" href="favicon.png">
+		
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,height=device-height">
+
+        <link rel="stylesheet" href="includes\home\asset\css\bootstrap.min.css" type="text/css" media="screen">
+<!--<link rel="stylesheet" type="text/css" href="https://www.mmumullana.org/includes/home/css/contact-buttons.css" media="screen">-->
+<link rel="stylesheet" type="text/css" href="includes\home\css\style.css" media="screen">
+<link rel="stylesheet" type="text/css" href="includes\home\css\yamm.css" media="screen">
+<link rel="stylesheet" type="text/css" href="includes\home\css\app.css" media="screen">
+<link rel="stylesheet" type="text/css" href="https://www.mmumullana.org/includes/home/assets/css/app.css" media="screen">
+
+<script type="text/javascript" src="includes\home\js\jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="includes\home\js\custom.js"></script>
+<!--<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />-->
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<script type="text/javascript" src="includes\home\asset\js\bootstrap.min.js"></script>
+<script type="text/javascript" src="includes\home\asset\js\jquery.newsTicker.js"></script>
+<script>
+    var base_url = "https://www.mmumullana.org/";
+
+    if ($(window).innerWidth() > 800)
+    {
+        $(document).ready(function() {
+            $('ul.nav li.dropdown').hover(function() {
+                $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn();
+            }, function() {
+                $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut();
+            });
+        });
+    }
+</script>
+
+<!-- google code for Ankit--->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37820215-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<meta name="Keywords" content="MMDU, Mullana, North Indias Best University in Mullana, Ambala, Haryana, courses, MBBS, MD, MS, OTT, MLT, BPT, MPT, Nursing, B.Tech, M.Tech, B.Sc, M.Sc, BCA, MCA, BBA, MBA, B.Com, Diploma, HMCT, Pharm D, B.Pharma, M.Pharma, Applied Sciences, LLB, LLM, BDS, MDS, Phd. ">
+<meta name="Description" content="MMDU, Mullana North Indias Best University in Mullana Ambala, Haryana providing courses in MBBS, MD, MS, OTT, MLT, BPT, MPT, Nursing, B.Tech, M.Tech, B.Sc, M.Sc, BCA, MCA, BBA, MBA, B.Com, Diploma, HMCT, Pharm D, B.Pharma, M.Pharma, Applied Sciences, LLB, LLM, BDS, MDS, Phd. ">
+     <meta name="Robots" content="index, follow">
+     <meta name="Coverage" content="Worldwide">
+     <meta name="Distribution" content="Global">
+     <meta name="Revisit-After" content="2 days">
+     <meta name="Rating" content="General">
+     <meta name="url" content="https://www.mmumullana.org/">
+     <meta name="Identifier-URL" content="https://www.mmumullana.org/">
+     <meta name="Reply-to" content="info@mmumullana.org/">
+     <meta name="Owner" content="MMDU Mullana">
+   <link rel="canonical" href="index-1.htm">
+     <meta name="Designer" content="website development team mmdu">
+     <meta name="Copyright" content="MMDU Mullana">
+     <meta name="Language" content="en">
+     <link rel="Shortcut Icon" href="favicon-1.png">
+     <meta http-equiv="Expires" content="0">
+     <meta http-equiv="Pragma" content="no-cache">
+     <meta http-equiv="Cache-Control" content="no-cache">
+<meta charset="utf-8">
+
+
+
+
+<!--------heatmap---------------------->
+<script>
+(function(h,e,a,t,m,p) {
+m=e.createElement(a);m.async=!0;m.src=t;
+p=e.getElementsByTagName(a)[0];p.parentNode.insertBefore(m,p);
+})(window,document,'script','https://u.heatmap.it/log.js');
+</script>
+<!---------------------------------------------------------------------------->
+
+
+
+
+    </head>
+    <body>
+        <style>
+ 
+.social {
+  height: 220px;
+  position: fixed;
+  margin-top: 170px;
+  z-index:10;
+      right:0px;    
+}
+
+.social li a {
+  display: block;
+  width: 50px;
+  background:rgba(108,108,108,0.8);
+  border-bottom: 1px solid #333;
+  font: normal normal normal
+  16px/20px 
+  'FontAwesome', 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  padding: 10px 10px;
+  text-decoration: none;
+  text-align: center;
+  transition: background .5s ease .300ms
+}
+
+.social li:first-child a:hover { background: #3b5998 }
+.social li:nth-child(2) a:hover { background: #3b5998  }
+.social li:nth-child(3) a:hover { background: #fb3958  }
+.social li:nth-child(4) a:hover { background: #0177B5}
+.social li:nth-child(5) a:hover { background: #bb0000 }
+.social li:nth-child(6) a:hover { background: #3F8D34}
+.social li:nth-child(7) a:hover { background: #00acee }
+.social li:first-child a { border-radius: 5px 0 0 0 }
+.social li:last-child a { border-radius: 0 0 0 5px }
+    
+.social li a span {
+  width: 100px;
+  float: left;
+  text-align: center;
+  background: rgba(0,0,0,0.8);
+  color: #fff;
+  margin: -10px -134px;
+  padding: 8px;
+  transform-origin: 0;
+  visibility: hidden;
+  opacity: 0;
+  transform: rotateY(45deg);
+  border-radius: 5px;
+  transition: all .5s ease .300ms
+}
+
+.social li span:after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 0;
+  position: absolute;
+  right: -20px;
+  top: 7px;
+  border-right: 10px solid transparent;
+  border-left: 10px solid rgba(0,0,0,0.8);
+  border-bottom: 10px solid transparent;
+  border-top: 10px solid transparent;
+}
+
+.social li a:hover span {
+  visibility: visible;
+  opacity: 1;
+  transform: rotateY(0)
+}
+#share_button
+{
+display:none;
+}
+      @media (max-width:768px) {
+
+        .social
+        {
+            right:-50px;
+        }
+       #share_button
+{
+display:block;
+}
+    }
+</style>
+<link href='//fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+<script type="text/javascript">
+    $(document).ready(function(){
+        var sh= 1;
+        $("#share_button").click(function(){
+            if(sh ==1)
+            {
+                
+                $(".social").animate({right:"0px"},"slow");
+                $("#share_button").html("<i class='fa fa-angle-double-right' style='font-size:18px'></i>");
+                sh =0;
+            }
+            else
+            { 
+                $("#share_button").html("<i class='fa fa-angle-double-left' style='font-size:18px'></i>");
+                $(".social").animate({right:"-50px"},"slow");
+                sh = 1;
+            }
+        });
+    });
+    </script>
+<div style="margin-top:140px;position:fixed;z-index:10;right:0px;background:rgb(202,24,24);color:white;padding:5px;" id="share_button">
+    <i class="fa fa-angle-double-left" style="font-size:18px"></i>
+</div>
+<ul class='social'>
+   <li>
+    <a class="fa fa-google-plus" href="
+https://plus.google.com/u/1/+ MaharishiMarkandeshwarUniversityMullana" style="background:#CA1818;" target="_blank">
+      <span>Google Plus</span>
+    </a>
+  </li>
+  <li>
+    <a class="fa fa-facebook" href="https://www.facebook.com/MMDUmullana/" target="_blank">    
+      <span>Facebook</span>
+    </a> 
+  </li>
+  
+  
+  
+  <li>
+    <a class="fa fa-instagram" href="https://www.instagram.com/mmuniversity/" target="_blank">
+      <span>Instagram</span>
+    </a>
+  </li>
+
+  <li>
+    <a class="fa fa-linkedin" href="https://www.linkedin.com/company-beta/3022033" target="_blank">
+      <span>Linkedin</span>
+    </a>
+  </li>
+  
+  <li>
+    <a class="fa fa-youtube" href="https://www.youtube.com/ MaharishiMarkandeshwarUniversityMullana" target="_blank">
+      <span>Youtube</span>
+    </a>
+  </li>
+    <li>
+    <a class="fa fa-whatsapp" href="intent://send/8059930001#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end">
+      <span>+91-80599-30001</span>
+    </a>
+  </li>
+<li>
+      <a class="fa fa-phone" href="tel:18002740240">
+    <span>Toll Free : 1800 2740 240</span>
+    </a> 
+  </li>
+  <li>
+      <!--a href="https://admission.nopaperforms.com/maharishi-markandeshwar-university" style="background:rgba(240,113,20,0.8);font-size:12px;font-family:arial;" -->
+<a href="https://admission.mmumullana.org/" target="_blank" style="background:rgba(240,113,20,0.8);font-size:12px;font-family:arial;">
+    Apply Now
+    </a> 
+  <!--  <a data-toggle="modal" href="#myModal" data-backdrop="static" data-keyboard="false" style="background:rgba(240,113,20,0.8);font-size:12px;font-family:arial;">
+    Apply Now
+    </a> -->
+  </li>
+</ul>
+    
+    
+    
+ <!---------Widget Integration on Mullana Start------->   
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="z-index:111111111;">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title" id="myModalLabel">ADMISSIONS ENQUIRY 2018</h4>
+      </div>
+      <div class="modal-body">
+		<div class="npf_wgts" data-height="400px" data-w="9c806adc0e85f92c1e33a4d7dbc19c03"></div> 
+
+		<script type="text/javascript">var s=document.createElement("script"); 
+				s.type="text/javascript"; s.src="https://widgets.nopaperforms.com/emwgts.js"; 
+				document.body.appendChild(s);
+		</script> 
+        
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>    
+    
+<!---------Widget Integration on Mullana Start------->            <!-- Full Body Container -->
+        <div id="container">
+
+       <!-- Start Header Section -->
+<!-- Start Header Section -->
+<header class="clearfix" id="header">
+    <div class="top-headwrap ">
+<div class="notification" style="width:100%;text-align:center;background:#DEB887;font-weight:bold;color:white;padding:2px;">
+            <marquee onmouseover="stop();" onmouseout="start();">
+<!--<i class="fa fa-bullhorn"></i> Information Regarding MBBS/BDS Admission 2017-18 : <a href="https://www.mmumullana.org/home/news/26" target="_blank" style='color:white;font-weight:bold'>Click Here</a> -->
+<i class="fa fa-bullhorn"></i> MDS Fees : <a href="home\news\42.htm" target="_blank" style='color:white;font-weight:bold'>Click Here</a> | 
+<i class="fa fa-bullhorn"></i> MD MS fees 2018-19 : <a href="home\news\43.htm" target="_blank" style='color:white;font-weight:bold'>Click Here</a> | 
+<i class="fa fa-bullhorn"></i> <a href="http://isca.net.co/Invitation.php" target="_blank" style='color:white;font-weight:bold'>8<sup>th</sup> International Science Congress (ISC-2018)</a> | 
+<i class="fa fa-bullhorn"></i> <a href="home\news\44.htm" target="_blank" style='color:white;font-weight:bold'>2nd MMDU National Moot Court Competition,  (11th to 13th April, 2018)</a> 
+<!--<i class="fa fa-bullhorn"></i> Ph.D Notifications 2017-18 : <a href="https://www.mmumullana.org/home/news/37" target="_blank" style='color:white;font-weight:bold'>Click Here</a>-->
+
+
+
+</marquee>
+        </div>
+        <div class="container">
+            <div class="top-head">
+                <div class="row">                                
+                    <div class="col-md-12 col-md-12 ">                                        
+                        <ul class="list-inline top-menu pull-right">
+                                                            <li><a href="index-1.htm">Home</a></li>
+                                                                    <li><a href="home\careers.htm">Careers</a></li>
+                                                                    <li><a href="top\downloads.htm">Downloads</a></li>
+                                                                    <li><a href="alumni\index.htm">Alumni</a></li>
+                                                                    <li><a href="top\international-students.htm">International Students</a></li>
+                                                                    <li><a href="top\anti-ragging.htm">Anti-Ragging</a></li>
+                                                                    <li><a href="https://sms.mmumullana.org">Student Login</a></li>
+                                                                    <li><a href="https://accounts.google.com/AddSession?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&hd=mmumullana.org&sacu=1#identifier">Webmail</a></li>
+                                                                    <li><a href="top\contact-us.htm">Contact Us</a></li>
+                                                                    <li><a href="https://blog.mmumullana.org/">Blog</a></li>
+                                                            </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>   
+    <!-- Start  Logo & Naviagtion  -->
+    <div class="navbar yamm ">
+        <div class="container">
+            <!-- Stat Search -->
+            <script>
+                $(document).ready(function() {
+                    $("a.show-search").click(function() {
+                        $(".search-form").toggle();
+                    });
+
+$("div.search-side span").html("");
+                });
+            </script>
+            <div class="search-side">
+
+                <a class="show-search"><i class="fa fa-search"></i></a>
+                <div class="search-form">
+                    <form autocomplete="off" role="search" method="get" class="searchform" action="https://www.google.com/search">
+                        <input name="sitesearch" type="hidden" value="www.mmumullana.org">
+                        <input type="text" value="" name="q" id="q" placeholder="Search with Google...">
+                    </form>
+                </div>
+            </div>
+            <!-- End Search -->
+            <div class="navbar navbar-default">
+
+                <div class="navbar-header">
+
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </button>
+
+                    <a class="navbar-brand" href="index-1.htm">
+                        <img alt="MM University" src="includes\home\images\mmu_logo.png" class="img-responsive" id='main_logo'>
+                    </a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav pull-right mobile_menu">
+<!--                        <li class="dropdown yamm-fw menu-item-has-children"><a href="#" data-toggle="dropdown" class="dropdown-toggle"><span>About MMU</span><br/><i>Know MMU</i></a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <div class="yamm-content">
+                                        <div class="row"> 
+
+                                            <div class="row col-md-12" >
+                                                <div class="col-md-4 about1">
+                                                    <a href="mmumullana.html#"><img src="https://www.mmumullana.org/includes/home/images/amn.jpg" class="img-responsive" alt=""/></a>
+                                                    <h2>MMU ADVANTAGE</h2>
+                                                    <p>MMU ranks high in both academia and management practice thanks to quality of our Faculty, our Alumni and our Programmes</p>
+                                                    <button class="btn btn-default">Discover</button>
+                                                </div>
+                                                <div class="col-md-4 about2">
+                                                    <h2>WHO WE ARE</h2>
+                                                    <p>The history and the values that make us what we are today</p>
+                                                    <a href="mmumullana.html">Annual Report 2015 &gt;</a> <br/>
+                                                    <a href="mmumullana.html">Sustainability Report 2014-2015 &gt;</a>
+
+                                                    <h2>OUR LEADERSHIP</h2>
+                                                    <p>Our Dean, our Chairman, the Board, the Advisory Council, the National and International Councils and the Fondation MMU</p>
+
+                                                    <h2>ALLIANCE &amp; PARTNERSHIPS</h2>
+
+                                                    <p>The MMU-Wharton Alliance</p>
+                                                    <p>Tsinghua SEM</p>
+                                                    <p>Sorbonne Universités</p>
+                                                </div>
+
+                                                <div class="col-md-4 about3">
+                                                    <h2>AMBALA CAMPUS</h2>
+                                                    <img class="img-responsive" src="https://www.mmumullana.org/includes/home/images/solan2.jpg" alt="">
+
+                                                    <h2>SOLAN CAMPUS</h2>
+                                                    <img class="img-responsive" src="https://www.mmumullana.org/includes/home/images/ambala.jpg" alt=""/>
+
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>                                            -->
+                                                    <li class="dropdown yamm-fw menu-item-has-children"><a href="#" data-toggle="dropdown" class="dropdown-toggle"><span>About Us</span><br><i>Explore MMDU</i></a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <div class="yamm-content">
+                                            <div class="row"> 
+
+                                                <div class="row col-md-12">
+
+                                                                                                            <div class="col-md-4">
+                                                            <h5>Get Started</h5>
+                                                            <hr>
+                                                            <ul class="menu_mega">
+                                                                                                                                    <li>
+                                                                        <a href="overview.htm">
+                                                                            <div>Overview</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="vision-mission.htm">
+                                                                            <div>Vision & Mission</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="rankings-accreditations.htm">
+                                                                            <div>Rankings & Accreditations</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="recognitions-approvals.htm">
+                                                                            <div>Recognitions & Approvals</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="advisory-board.htm">
+                                                                            <div>Advisory Board</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="other-institutions-under-mmut.htm">
+                                                                            <div>Other Institutions under MMUT</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="activity-milestone.htm">
+                                                                            <div>Activity Milestone</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                </ul>
+                                                        </div>
+                                                                                                                <div class="col-md-4">
+                                                            <h5>Leadership</h5>
+                                                            <hr>
+                                                            <ul class="menu_mega">
+                                                                                                                                    <li>
+                                                                        <a href="founder-chancellor.htm">
+                                                                            <div>Founder Chancellor</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="vice-chancellor-message.htm">
+                                                                            <div>Vice Chancellor Message</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                </ul>
+                                                        </div>
+                                                                                                                <div class="col-md-4">
+                                                            <h5>University Bodies</h5>
+                                                            <hr>
+                                                            <ul class="menu_mega">
+                                                                                                                                    <li>
+                                                                        <a href="board-of-management.htm">
+                                                                            <div>Board of Management</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="finance-committee.htm">
+                                                                            <div>Finance Committee</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="planning-monitoring-board.htm">
+                                                                            <div>Planning & Monitoring Board</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="academic-council.htm">
+                                                                            <div>Academic Council</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="institutional-ethics-committee-iec.htm">
+                                                                            <div>Institutional Ethics Committee (IEC)</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                </ul>
+                                                        </div>
+                                                        
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>  
+                                                        <li class="dropdown yamm-fw menu-item-has-children"><a href="#" data-toggle="dropdown" class="dropdown-toggle"><span>Admission</span><br><i>Apply Here</i></a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <div class="yamm-content">
+                                            <div class="row"> 
+
+                                                <div class="row col-md-12">
+
+                                                                                                            <div class="col-md-4">
+                                                            <h5>Admission Procedure</h5>
+                                                            <hr>
+                                                            <ul class="menu_mega">
+                                                                                                                                    <li>
+                                                                        <a href="indian-students.htm">
+                                                                            <div>Indian Students</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="top\international-students.htm">
+                                                                            <div>International Students</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="https://admission.mmumullana.org/">
+                                                                            <div>Apply Online</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="prospectus-counter.htm">
+                                                                            <div>Prospectus Counter</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="online-fees.htm">
+                                                                            <div>Online Fees</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="admission-offices.htm">
+                                                                            <div>Admission Offices</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="counseling-schedule-2018-19.htm">
+                                                                            <div>Counseling Schedule 2018-19</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                </ul>
+                                                        </div>
+                                                                                                                <div class="col-md-4">
+                                                            <h5>Prospectus</h5>
+                                                            <hr>
+                                                            <ul class="menu_mega">
+                                                                                                                                    <li>
+                                                                        <a href="custom\sd.htm">
+                                                                            <div>B. Tech. Software Development</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="dwnload\brochure.pdf">
+                                                                            <div>International Students Brochure</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="downloads\prospectus-2018-19.pdf">
+                                                                            <div>Prospectus 2018-19</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="home\news\32.htm">
+                                                                            <div>Ph.D Notifications 2018-19</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="phd-prospectus-2018-19.htm">
+                                                                            <div>Ph.D Prospectus 2018- 19</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                </ul>
+                                                        </div>
+                                                                                                                <div class="col-md-4">
+                                                            <h5>Further Details</h5>
+                                                            <hr>
+                                                            <ul class="menu_mega">
+                                                                                                                                    <li>
+                                                                        <a href="diploma-courses.htm">
+                                                                            <div>Diploma Courses</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="graduate-courses.htm">
+                                                                            <div>Graduate Courses</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="post-graduate-courses.htm">
+                                                                            <div>Post Graduate Courses</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="doctorate-courses.htm">
+                                                                            <div>Doctorate Courses</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="certificate-courses.htm">
+                                                                            <div>Certificate Courses</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="bank-details.htm">
+                                                                            <div>Bank Details</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="fee-structure.htm">
+                                                                            <div>Fee Structure</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="scholarships.htm">
+                                                                            <div>Scholarships</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                </ul>
+                                                        </div>
+                                                        
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>  
+                                                        <li class="dropdown yamm-fw menu-item-has-children"><a href="#" data-toggle="dropdown" class="dropdown-toggle"><span>Academics</span><br><i>Intellectual</i></a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <div class="yamm-content">
+                                            <div class="row"> 
+
+                                                <div class="row col-md-12">
+
+                                                                                                            <div class="col-md-4">
+                                                            <h5>Institutions</h5>
+                                                            <hr>
+                                                            <ul class="menu_mega">
+                                                                                                                                    <li>
+                                                                        <a href="engineering.htm">
+                                                                            <div>Engineering</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="management.htm">
+                                                                            <div>Management</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="computer-applications.htm">
+                                                                            <div>Computer Applications</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="hotel-management.htm">
+                                                                            <div>Hotel Management</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="pharmacy.htm">
+                                                                            <div>Pharmacy</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="nursing-co-education.htm">
+                                                                            <div>Nursing (Co-Education)</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="nursing-for-girls.htm">
+                                                                            <div>Nursing (For Girls)</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="physiotherapy-and-rehabilitation.htm">
+                                                                            <div>Physiotherapy and Rehabilitation</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="law.htm">
+                                                                            <div>Law</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="dental-sciences.htm">
+                                                                            <div>Dental Sciences</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="https://mmimsr.mmumullana.org">
+                                                                            <div>Medical Sciences</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                </ul>
+                                                        </div>
+                                                                                                                <div class="col-md-4">
+                                                            <h5>Important Links</h5>
+                                                            <hr>
+                                                            <ul class="menu_mega">
+                                                                                                                                    <li>
+                                                                        <a href="academic-calendar-2017-18.htm">
+                                                                            <div>Academic Calendar 2017-18</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="examination.htm">
+                                                                            <div>Examination</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                        <li>
+                                                                        <a href="http://www.nad.gov.in/">
+                                                                            <div>National Academic Depository</div>
+                                                                        </a>
+                                                                    </li>                                                                                                               			  
+                                                                                                                                </ul>
+                                                        </div>
+                                                        
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>  
+                                                                                <li class="dropdown menu-item-has-children">
+                                <a href="custom\campus-life.htm" class='dropdown-toggle' data-toggle='dropdown'><span>Campus Life</span><br><i>MMDU Culture</i></a>
+                                                                    <ul class="dropdown-menu menu_mega" role="menu" aria-labelledby="dropdownMenu">
+                                                                                    <li><a href="events-fests.htm" target="_self">Events & Fests</a></li>                                    
+                                                                                        <li><a href="clubs-societies.htm" target="_self">Clubs & Societies</a></li>                                    
+                                                                                        <li><a href="sports-activities.htm" target="_self">Sports Activities</a></li>                                    
+                                                                                        <li><a href="cultural-activities.htm" target="_self">Cultural Activities</a></li>                                    
+                                                                                        <li><a href="institute-social-responsibility-isr.htm" target="_self">Institute Social Responsibility (ISR)</a></li>                                    
+                                                                                        <li><a href="other-amenities.htm" target="_self">Other Amenities</a></li>                                    
+                                                                                </ul>
+                                                                </li>
+                                                        <li class="dropdown menu-item-has-children">
+                                <a href="custom\uniquemmu.htm"><span>Unique@MMDU</span><br><i>MMDU Advantages</i></a>
+                                                            </li>
+                                                        <li class="dropdown menu-item-has-children">
+                                <a href="custom\placement.htm"><span>Placement</span><br><i>Dream Comes True</i></a>
+                                                            </li>
+                                                        <li class="dropdown menu-item-has-children">
+                                <a href="custom\research.htm"><span>Research</span><br><i>Creating Knowledge</i></a>
+                                                            </li>
+                            
+                    </ul>
+
+
+                </div>
+
+            </div>
+
+        </div>                   
+    </div>
+
+</header>
+<!-- End Header Section -->
+
+<script type="text/javascript">
+
+hidecont();
+function hidecont()
+{
+
+$(document).ready(function(){
+
+$(".search-side span").remove();
+
+});
+
+setTimeout("hidecont",1);
+}
+
+</script>
+<!-- End Header Section -->
+
+
+
+
+<script type="text/javascript">
+
+hidecont();
+function hidecont()
+{
+
+$(document).ready(function(){
+
+$(".search-side span").remove();
+
+});
+
+setTimeout("hidecont",1);
+}
+
+</script>
+
+            <!-- Start Home Page Slider -->
+            <section id="home">
+
+
+
+
+                <!-- Carousel -->
+                <div id="main-slide" class="carousel slide" data-ride="carousel">
+
+
+                    <style>
+
+                        .naac_nirf
+                        {
+                            position: absolute;
+                            margin-top: 480px;
+                            margin-left: -200px;
+                            z-index:10;
+                            width:350px;
+                        }
+                        .sd_program
+                        {
+                            position: absolute;
+                            right:10px;
+                            bottom:40px;
+width:550px;
+                            z-index:2;
+
+                        }
+@media (max-width:768px) {
+.sd_program
+                        {
+width:100px;
+}
+.sd_anchor
+                        {
+                        display:none;
+                        }
+}
+                        .naac,.nirf1
+                        {
+                            float:left;
+                            margin-left:10px;
+                        }
+                    </style>
+                    <script type="text/javascript">
+                        diseff();
+
+                        function diseff()
+                        {
+                            $(document).ready(function() {
+
+                                $("#naac_nirf").animate({marginLeft: "90px"}, 5000);
+                            });
+                        }
+                        function hidenaac()
+                        {
+                            document.getElementById("naac_nirf").style.display = "none";
+                        }
+                    </script>
+                    <div class="naac_nirf" id="naac_nirf">
+                        <div onclick="hidenaac();" style="position:absolute;right:0px;"><i class="fa fa-close" style="color:white;background:rgba(0,0,0,0.4);border-radius:20px;padding:8px;cursor:pointer;"></i></div>
+                        <div class="naac"><a href="dwnload\Naac-Certificate.pdf"><img src="dwnload\NAAC.png" alt="NAAC" style="width:150px;"></a></div>
+                        <div class="nirf1"><a href="custom\nirf.htm"><img src="dwnload\images\NIRF.png" alt="NIRF" style="width:150px;"></a></div>
+                    </div>
+
+
+                    <div class="sd_program">
+
+                    <a href="custom\sd.htm" class="sd_anchor"><img src="dwnload\sd_program.png" alt="SD" style="height:70px;"></a>
+<a href="custom\qs-stars.htm"><img src="dwnload\QS_star.png" alt="QS_star" style="height:70px;"></a>
+</div> 
+                    <!-- Indicators -->
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#main-slide" data-slide-to="0" class="active"></li>
+                        <li data-target="#main-slide" data-slide-to="1"></li>
+                        <li data-target="#main-slide" data-slide-to="2"></li>
+
+                    </ol>
+                    <!--/ Indicators end-->
+
+                    <!-- Carousel inner -->
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img class="img-responsive" src="includes\home\images\slider\background-13.jpg" alt="MMDU">
+
+                        </div>      
+                        <div class="item">
+                            <img class="img-responsive" src="includes\home\images\slider\bg3.jpg" alt="MMDU">
+
+                        </div>   
+                        <div class="item">
+                            <img class="img-responsive" src="includes\home\images\slider\background-10.jpg" alt="MMDU">
+
+                        </div>  
+
+                    </div>
+
+                    <div class="slider-content ">
+                        <div class="container">
+                            <div class="col-md-6 pull-left">
+                                <div class="slider_content_bg">
+
+                                 <!--   <p class="slider_content_p">The Destination For Learning, Employability & Growth</p>-->
+                                    <h2 class="animated8">
+                                        <span>#KR.SACHIN <b style="color:#CA1818">MMU UNDER CONTROL</b> 
+                                            <!--br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b style="color:#CA1818"></b--></span>
+                                    </h2>
+                                  <!--  <a href="https://admission.nopaperforms.com/maharishi-markandeshwar-university" class="btn btn-primary custom_btn1">Apply Now</a><br/> -->                                
+                                </div>
+                            </div>
+                            <div class="col-md-5 col-sm-6 pull-right hidden-sm">
+
+                                <iframe width="460" height="300" src="https://www.youtube.com/embed/ACvDUq103xA?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+
+
+
+                                <!--<video width="100%" controls> 
+                                                                   <source src="https://www.youtube.com/watch?v=espbE8-5Msc" type="video/mp4">
+                                                               </video>-->
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Carousel inner end-->
+
+                    <!-- Controls -->
+                    <!--        <a class="left carousel-control" href="#main-slide" data-slide="prev">
+                                            <span><i class="fa fa-angle-left"></i></span>
+                                    </a>
+                                    <a class="right carousel-control" href="#main-slide" data-slide="next">
+                                            <span><i class="fa fa-angle-right"></i></span>
+                                    </a>-->
+                </div>
+                <!-- /carousel -->
+            </section>
+            <!-- End Home Page Slider -->
+
+            <!-- Start Content -->
+            <div class="section about-us 123">
+                <div class="container">
+
+                    <div class="section-header">
+                        <h1 class="section-title wow fadeInDown"><span style="color:#000;">Maharishi Markandeshwar (Deemed to be University)</span></h1> 
+                        <center><img src="includes\home\images\title_line10.png" alt="MMDU"></center>
+
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="media service-box wow fadeInRight">
+                                <div class="welcome">
+
+                                    <p align="justify" style="color:#000;">Maharishi Markandeshwar (Deemed to be University), Mullana - Ambala, erstwhile known as Maharishi Markandeshwar Education Trust was founded with the objective of social, educational and economic upliftment of society in the year 1993, in the name of Lord Shiva's devotee, "Maharishi Markandeshwar Ji". MM University Trust, Mullana - Ambala has become a symbol of quality education in technical, professional and medical streams in northern India and has been carrying on its lineage for over 24 years. </p>
+                                    <center><a class="btn btn-primary custom_btn" href="overview.htm">Read More</a></center> 
+
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+            <!-- End Content -->
+
+
+
+            <!-- Start Content -->
+            <div class="section cultural full-width-portfolio">
+                <div class="container-fluid">
+
+                    <div class="section-header">
+                        <h1 class="section-title  wow fadeInDown"><span style="color:#fff;">News & Events</span></h1>
+                        <center><img src="includes\home\images\title_line11.png" alt="MMDU"></center><br>
+                    </div>
+
+
+                    <div class="container nopadding">
+                        <div class="col-md-6 news-bor">
+
+
+                            <div class="tab-content" style="background:none;">
+                                <div class="tab-pane active" id="engineering1">
+                                    <div id="exTab2">
+                                        <ul class="nav nav-tabs">
+                                            <li class="active">
+                                                <a data-toggle="tab" href="#newsandevents">News & Events</a></li>
+                                            <li>
+                                                <a data-toggle="tab" href="#placements">Placement Notices</a></li>                                            
+                                        </ul>
+                                        <div class="tab-content tab-content-inner">
+                                            <div class="tab-pane active" id="newsandevents">
+                                                <div class=" wow fadeInLeft">
+
+                                                    <div id="nt-example1-container">
+                                                        <i class="fa fa-arrow-up" id="nt-example1-prev"></i>
+                                                        <i class="fa fa-arrow-down" id="nt-example1-next"></i>
+
+                                                        <ul id="nt-example1" style="height:305px !important;list-style:none;">
+                                                                                                                            <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\44.htm">2nd MMDU National Moot Court Competition,  (11th to 13th April, 2018)</a>
+                                                                                <p>
+	
+		
+			
+				Invitation-2nd MMDU National Moot Court Competition 2018
+			
+				2nd MM (DU) Moot-Court-Proposition- 2018
+			
+				2nd MM (DU) Mo</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\43.htm">MD MS fees 2018-19</a>
+                                                                                <p>
+	
+		
+
+</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\42.htm">MDS Fees</a>
+                                                                                <p>
+	
+		
+
+</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\41.htm">Expert talk on Software Testing</a>
+                                                                                <p>
+	
+		
+			M.M. Institute of Computer Technology &amp; Business Management (MCA) organized an expert talk on &ldquo;Software Testing&rdquo; by Mr. Si</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\40.htm">LabVIEW Programming and interfacing with myDAQ and myRIO</a>
+                                                                                <p>
+	Department&nbsp;of&nbsp;Electronics&nbsp;And&nbsp;Communication&nbsp;Engineering&nbsp;of&nbsp;MMEC&nbsp;organized&nbsp;a&nbsp;2&nbsp;days
+
+	works</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\39.htm">33rd North Zone AIU Inter-University Youth Fest 'Yuva MMaha Utsav' 2017-18</a>
+                                                                                <p>
+	
+		
+			
+				1. University Information Brochure
+			
+				2. Invitation
+			
+				3. Event Rules and Regulation
+			
+				4. Schedule of Yuva MMa</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\38.htm">National Workshop on Research Methodology</a>
+                                                                                <p>
+	
+		National Workshop on Research Methodology : Reg. Form Download
+		
+			
+		
+			
+	
+
+
+	&nbsp;
+</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\37.htm">Ph.D Notifications 2017-18</a>
+                                                                                <p>
+	
+		Ph.D Notifications 2017-18 : Download
+
+</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\36.htm">NOTICE - VIDYA LAKSHMI PORTAL</a>
+                                                                                <p>
+	
+		NOTICE - VIDYA LAKSHMI PORTAL : Download
+
+</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\35.htm">Fixture of North Zone Inter University Cricket (Women) Championship 2017-2018</a>
+                                                                                <p>
+	Fixture of North Zone Inter University Cricket (Women) Championship 2017-2018&nbsp; Download
+</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\34.htm">Olympiad 2017</a>
+                                                                                <p>
+	Olympiad 2017
+</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\33.htm">One day workshop on “Embedded System Design” on 9th October, 2017.</a>
+                                                                                <p>
+	One day workshop on &ldquo;Embedded System Design&rdquo; on 9th October, 2017.
+
+	Department of Electronics and Communication Engineering, MMEC, o</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\32.htm">Ph.D Notifications 2018-19</a>
+                                                                                <p>
+	Coming Soon 
+</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\31.htm">WORKSHOP ON  EMPLOYABILITY SKILLS THROUGH LIFE SKILLS APPROACHES AT  M.M. UNIVERSITY, MULLANA</a>
+                                                                                <p>
+	Maharishi Markandeshwar University, Mullana (Ambala) organized a Four Day Workshop on 
+
+	&ldquo;Employability Skills Through Life Skills Approach</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\28.htm">Pledge taken by students of M.M.University, Mullana on the occasion of ‘Quit India Movement’ anniversary and Independence Day Celebrations</a>
+                                                                                <p>
+	In order to celebrate the 75th year of &quot;Quit India movement&rdquo; and 70th year of India&rsquo;s Independence, today the 9th August, 2017 the</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\27.htm">Admission D.M & M.Ch 2017-18</a>
+                                                                                <p>
+	
+		
+			Admission D.M &amp; M.Ch 2017-18 : PDF
+	
+
+
+	&nbsp;
+</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\26.htm">MBBS/BDS-2017-18</a>
+                                                                                <p>
+	
+		MBBS 2017-18
+	
+		&nbsp;
+	
+		The counselling for MBBS for M.M. Institute of Medical Sciences and research, Mullana will be conducted by DGHS</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\25.htm">Start of D.M. and M.Ch courses</a>
+                                                                                <p>
+	Another Milestone: Start of D.M. and M.Ch courses
+
+	&nbsp;
+
+	M.M. University, Mullana, Ambala proudly announces the start of D.M. and M.Ch. cou</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\24.htm">3rd International Day of Yoga 2017</a>
+                                                                                <p>
+	3rd International Day of Yoga was celebrated in Maharishi Markandeshwar University on 21st June, 2017 with great enthusiasm. A special yoga session</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\23.htm">Vendor Registration Form</a>
+                                                                                <p>
+	Please fill the format as attachment and send to purchase@mmumullana.org
+	Click here... Vendor Registration Form
+</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\22.htm">CME ORTHOPAEDICS ON MIN INVASIVE SPINE TECHNIQUES (CADAVER WORKSHOP) & PERIARTICULAR FRACTURE FIXATION (SAWBONE WORKSHOP)</a>
+                                                                                <p>
+	MMU Hospital Itenory Brochure
+	MMU Hospital Itenory Brochure Registration Form
+</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\21.htm">Counseling Schedule for Admission 2017-2018</a>
+                                                                                <p>
+	Counseling Schedule for Admission 2017-2018
+
+	
+</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\20.htm">TEMPLATE OF THE PROFORMA FOR DATA REGARDING PH.D SCHOLARS</a>
+                                                                                <p>
+	
+		
+			
+	
+
+</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\13.htm">MMU Students (Department of Law) visited Juvenile Justice Courts in Ambala Distt. Courts, Ambala City on 23-03-2017</a>
+                                                                                <p>
+	Students of VIIIth sem, B.A.,LL.B., Dept. Of Law, MMU, Mullana visited Juvenile Justice Courts in Ambala Distt. Courts, Ambala City, today, accompa</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\12.htm">Seminar on Water Resource Management</a>
+                                                                                <p>
+	A seminar on Water Resource Management was conducted by Dept of Humanities and social Sc along with the Department of Civil Engineering. More than </p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\11.htm">Technical Quiz competition held on 23rd March 2017 on the occasion of Martyrs Day</a>
+                                                                                <p>
+	Department of ECE of MMEC organized a Quiz competition for B. Tech ECE students on 23rd March 2017 on the occasion of Martyrs&rsquo; Day. A total o</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\10.htm">One day workshop on Professional Communication Skills</a>
+                                                                                <p>
+	Literary Club EXPRESSIONS of Maharishi Markandeshwar University, Mullana, organized a one day workshop on Professional Communication Skills on Apri</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                                <li>
+                                                                    <div class="news">
+                                                                        <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                            <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                        </div>
+                                                                        <div class="col-md-10 col-xs-9">
+                                                                            <div class="">
+                                                                                <a href="home\news\9.htm">Motivational Talk on "How to Boost Up Your Memory and Confidence"</a>
+                                                                                <p>
+	Yoga Club-Twist Yourself Up and Literary Club-Expressions of Maharishi Markandeshwar University organised a motivational talk on &quot;How to Boost</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </li>
+                                                                                                                        </ul>
+
+                                                    </div>
+                                                    <a href="home\allnews.htm" class="btn btn-danger btn-xs"><i class="fa fa-arrow-down"></i> Read More</a>
+                                                    <script>
+
+
+                                                        var nt_example1 = $('#nt-example1').newsTicker({
+                                                            row_height: 75,
+                                                            max_rows: 4,
+                                                            duration: 4000,
+                                                            prevButton: $('#nt-example1-prev'),
+                                                            nextButton: $('#nt-example1-next')
+                                                        });
+
+
+                                                    </script>
+
+
+                                                </div>
+                                            </div>
+                                            <div class="tab-pane" id="placements">
+                                                <div id="nt-example2-container">
+                                                    <i class="fa fa-arrow-up" id="nt-example2-prev"></i>
+                                                    <i class="fa fa-arrow-down" id="nt-example2-next"></i>
+                                                    <ul id="nt-example2">
+                                                                                                                    <li>
+                                                                <div class="news">
+                                                                    <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                        <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                    </div>
+                                                                    <div class="col-md-10 col-xs-9">
+                                                                        <div class="">
+                                                                            <a href="home\news\19.htm">METADESIGN Solutions on 21th May,2016</a>
+                                                                            <p>
+	METADESIGN Solutions on 21th May,2016
+</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+
+                                                            </li>
+                                                                                                                        <li>
+                                                                <div class="news">
+                                                                    <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                        <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                    </div>
+                                                                    <div class="col-md-10 col-xs-9">
+                                                                        <div class="">
+                                                                            <a href="home\news\18.htm">Sarv Bio Labs (P) Ltd on 21th May,2016</a>
+                                                                            <p>
+	Sarv Bio Labs (P) Ltd on 21th May,2016
+</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+
+                                                            </li>
+                                                                                                                        <li>
+                                                                <div class="news">
+                                                                    <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                        <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                    </div>
+                                                                    <div class="col-md-10 col-xs-9">
+                                                                        <div class="">
+                                                                            <a href="home\news\17.htm">Nissan Technology &amp; Business Centre India Pvt Ltd on 25th May,2016</a>
+                                                                            <p>
+	Nissan Technology &amp;amp; Business Centre India Pvt Ltd on 25th May,2016
+</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+
+                                                            </li>
+                                                                                                                        <li>
+                                                                <div class="news">
+                                                                    <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                        <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                    </div>
+                                                                    <div class="col-md-10 col-xs-9">
+                                                                        <div class="">
+                                                                            <a href="home\news\16.htm">Work Advantage Pvt Ltd 27th May,2016</a>
+                                                                            <p>
+	Work Advantage Pvt Ltd 27th May,2016
+</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+
+                                                            </li>
+                                                                                                                        <li>
+                                                                <div class="news">
+                                                                    <div class="col-md-2 col-xs-2" style="padding:0px;">
+                                                                        <p><img src="dwnload\icons\News-icon.png" alt="News" class="img-thumbnail"></p>
+                                                                    </div>
+                                                                    <div class="col-md-10 col-xs-9">
+                                                                        <div class="">
+                                                                            <a href="home\news\15.htm">CoCubes.com 27th May,2016</a>
+                                                                            <p>
+	CoCubes.com 27th May,2016
+</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+
+                                                            </li>
+                                                                                                                </ul>
+
+                                                </div>
+                                                <a href="home\placements.htm" class="btn btn-danger btn-xs"><i class="fa fa-arrow-down"></i> Read More</a>
+                                                <script>
+
+
+                                                    var nt_example1 = $('#nt-example2').newsTicker({
+                                                        row_height: 75,
+                                                        max_rows: 4,
+                                                        duration: 4000,
+                                                        prevButton: $('#nt-example2-prev'),
+                                                        nextButton: $('#nt-example2-next')
+                                                    });
+
+
+                                                </script>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                        <br>
+                        <div class="col-md-6">
+                            <h2 align="center" style="color:white;" class="mmu_accolades"><b>MMDU</b> Accolades</h2>
+                            <!-- Carousel -->
+                            <div id="mycarousel" class="carousel1 slide">
+
+
+                                <div class="carousel-inner">
+                                    <div class="item active">
+                                        <img class="img-responsive img img-thumbnail" style='width:100%' src="dwnload\images\home_slider2\Ranking11.jpg" alt="RANKING">
+                                    </div> 
+<!--<div class="item">
+                                        <img class="img-responsive img img-thumbnail" style='width:100%' src="https://www.mmumullana.org/dwnload/images/home_slider2/QS-Stars-Ranking-for-Website.jpg" alt="slider">
+                                    </div> -->
+                                    <div class="item">
+                                        <img class="img-responsive img img-thumbnail" style='width:100%' src="dwnload\images\home_slider2\Ranking22.jpg" alt="RANKING">
+                                    </div>
+                                    <div class="item">
+                                        <img class="img-responsive img img-thumbnail" style='width:100%' src="dwnload\images\home_slider2\Ranking33.jpg" alt="RANKING">
+                                    </div>
+                                    <div class="item">
+                                        <img class="img-responsive img img-thumbnail" style='width:100%' src="dwnload\images\home_slider2\Ranking44.jpg" alt="RANKING">
+                                    </div>
+                                    <div class="item">
+                                        <img class="img-responsive img img-thumbnail" style='width:100%' src="dwnload\images\home_slider2\Ranking55.jpg" alt="RANKING">
+                                    </div>
+                                    <div class="item">
+                                        <img class="img-responsive img img-thumbnail" style='width:100%' src="dwnload\images\home_slider2\Ranking66.jpg" alt="RANKING">
+                                    </div>
+                                    <div class="item">
+                                        <img class="img-responsive img img-thumbnail" style='width:100%' src="dwnload\images\home_slider2\Ranking77.jpg" alt="RANKING">
+                                    </div>
+                                </div>
+
+                                <!-- Controls -->
+                                <a class="left carousel-control" href="#main-slide" data-slide="prev">
+                                    <span><i class="fa fa-angle-left"></i></span>
+                                </a>
+                                <a class="right carousel-control" href="#main-slide" data-slide="next">
+                                    <span><i class="fa fa-angle-right"></i></span>
+                                </a>
+                            </div>
+                            <!-- /carousel -->
+                        </div>                            <!-- /carousel -->
+
+
+                        <script type="text/javascript">
+                            $(document).ready(function() {
+                                $('.carousel1').carousel();
+
+                                $('a[data-slide="prev"]').click(function() {
+
+                                    $('#mycarousel').carousel('prev');
+                                });
+
+                                $('a[data-slide="next"]').click(function() {
+                                    $('#mycarousel').carousel('next');
+
+                                });
+                            });
+                        </script>
+                    </div>
+
+
+
+                </div>
+            </div>
+            <!-- End Content -->
+
+
+
+
+
+            <script type="text/javascript">
+                $(document).ready(function() {
+                    $(".item_menu").each(function() {
+
+                        $(this).click(function() {
+                            $(".item_menu").parent().css({background: "none"});
+
+                            //   $(this).parent().css({background: "rgba(187,31,30,0.7)"});
+
+                            $(".item_menu").children("span").css({color: "#4a4a4a"});
+
+                            $(this).children("span").css({color: "#fff"});
+                        });
+                    });
+
+                });
+
+            </script>
+            <script type="text/javascript" src="includes\home\js\jquery-sectionsnap.js"></script>
+            <script>
+                $(document).ready(function() {
+                    $(".myslider").sectionsnap({
+                        'delay': 0,
+                        'selector': ".section_slider",
+                        // % of window height from which we start
+                        'reference': .9,
+                        // animation time (snap scrolling)
+                        'animationTime': 400,
+                        // offset top (no snap before scroll reaches this position)
+                        'offsetTop': 0,
+                        // offset bottom (no snap after bottom - offsetBottom)
+                        'offsetBottom': 0
+                    });
+
+                    if ($(window).innerWidth() > 1000)
+                    {
+                        $(".item_menu").click(function() {
+                            $("#section1").removeClass("section_slider");
+                            $("#section2").removeClass("section_slider");
+                            $("#section3").removeClass("section_slider");
+                            $("#section4").removeClass("section_slider");
+                            $("#section5").removeClass("section_slider");
+                            $("#section6").removeClass("section_slider");
+                        });
+
+                        $(document).scroll(function() {
+                            setTimeout(function() {
+                                $("#section1").addClass("section_slider");
+                                $("#section2").addClass("section_slider");
+                                $("#section3").addClass("section_slider");
+                                $("#section4").addClass("section_slider");
+                                $("#section5").addClass("section_slider");
+                                $("#section6").addClass("section_slider");
+
+                            }, 700);
+
+                        });
+                    }
+                    else
+                    {
+                        $("#section1").removeClass("section_slider");
+                        $("#section2").removeClass("section_slider");
+                        $("#section3").removeClass("section_slider");
+                        $("#section4").removeClass("section_slider");
+                        $("#section5").removeClass("section_slider");
+                        $("#section6").removeClass("section_slider");
+                    }
+                });
+
+            </script>
+            <div id="menu">
+                <ul class="sliding_menu">
+                    <li>
+                        <a href="#section1" class="item_menu">
+                            <img src="includes\home\images\1.png" alt="1"><span>Hands On Learning</span>
+                        </a>
+
+                    </li>
+                    <li>
+                        <a href="#section2" class="item_menu">
+                            <img src="includes\home\images\2.png" alt="2"><span>Career & Placements</span>
+                        </a>
+
+                    </li>
+                    <li>
+                        <a href="#section3" class="item_menu">
+                            <img src="includes\home\images\3.png" alt="3"><span>Entrepreneurship</span>
+                        </a>
+
+                    </li>
+                    <li>
+                        <a href="#section4" class="item_menu">
+                            <img src="includes\home\images\4.png" alt="4"><span>Students Initiatives</span>
+                        </a>
+
+                    </li>
+                    <li>
+                        <a href="#section5" class="item_menu">
+                            <img src="includes\home\images\5.png" alt="5"><span>Learning Beyond Curriculum</span>
+                        </a>
+
+                    </li>
+                    <li>
+                        <a href="#section6" class="item_menu">
+                            <img src="includes\home\images\6.png" alt="6"> <span>Scholarships</span>
+                        </a>
+
+                    </li>
+                </ul>
+            </div>
+            <div class="container-fluid myslider">
+                <div id="section1" class="section section_slider">
+                    <div class="container nopadding">
+                        <div class="col-md-6 col-sm-6 awesome-sections">
+
+                            <div class="section_content">
+
+                                <h1>Hands On Learning</h1>
+                                <p align="justify">The more that you read, the more things you will know. The more that you learn, the more you explore and for the things we have to learn before we can do them, we learn by doing them. Here at MMDU we provide you platform for learning by doing it yourself.
+                                </p>
+                                <!--  <a href="https://www.mmumullana.org/custom/-sae-mmec-collegiate-club-of-society-of-automotive-engineers-india" class="btn btn-primary">Read more
+  
+                                  </a>-->
+                            </div>
+
+                        </div>                                        
+                    </div>
+                </div>
+                <div id="section2" class="section section_slider">
+                    <div class="container nopadding">
+                        <div class="col-md-6 col-sm-6 awesome-sections">
+                            <div class="section_content">
+
+                                <h1>Career & Placements</h1>
+                                <p align="justify">Students these days have different career options, some look forward to higher studies and research while some want Jobs either in govt. sector or private sector. Most of them avail the placement opportunities being provided by the companies visiting the campus. 
+                                </p>
+                                <a href="placement-overview.htm" class="btn btn-primary">Read more
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="section3" class="section section_slider">
+                    <div class="container nopadding">
+                        <div class="col-md-6 col-sm-6 awesome-sections">
+                            <div class="section_content">
+                                <h1>Entrepreneurship</h1>
+                                <p align="justify">In a business you have to take courageous decision to become successful. Put your best foot forward, forget about making mistakes, JUST DO IT. Let the professionals working 24X7 at MMDU - Entrepreneurship Development Cell, take care of the critical points and help you steer ahead towards success.
+
+                                </p>
+                                <a href="entrepreneurship-development-cell.htm" class="btn btn-primary">Read more
+
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div id="section4" class="section section_slider">
+                    <div class="container nopadding">
+                        <div class="col-md-6 col-sm-6 awesome-sections">
+                            <div class="section_content">
+                                <h1>Students Initiatives</h1>
+                                <p align="justify">People always say time changes things, but you actually have to change them yourself, Step ahead and bring a change in the society.  We at MMDU believes that Students must have initiative; they should not be mere imitators. They must learn to think and act for themselves - and be free.
+                                </p>
+                                <a href="business-incubation-centre-bic.htm" class="btn btn-primary">Read more
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div id="section5" class="section section_slider">
+                    <div class="container nopadding">
+                        <div class="col-md-6 col-sm-6 awesome-sections">
+                            <div class="section_content">
+                                <h1>Learning Beyond Curriculum</h1>
+                                <p align="justify">
+                                    The capacity to learn is a gift, the ability to learn is skill and willingness to learn is a choice. As the learning is a never ending process moreover leadership and learning are indispensable to each other. We at MMDU provide the multiple platforms to learn beyond the curriculum and think of the box.  </p>
+                                <a href="events-fests.htm" class="btn btn-primary">Read more
+                                </a>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div id="section6" class="section section_slider">
+                    <div class="container nopadding">
+                        <div class="col-md-6 col-sm-6 awesome-sections">
+                            <div class="section_content">
+                                <h1>Scholarships</h1>
+                                <p align="justify">To help the capable students to fulfill their dream for higher studies, M.M. University offers Scholarships to meritorious students on merit-cum-means basis. The University also offers financial assistance/scholarships to Socially-backward & Economically-weaker students and fellowship to research scholars.
+                                </p>
+                                <a href="scholarships.htm" class="btn btn-primary"> Read more
+                                </a>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <script src="includes\home\js\vertical_navigation.min.js"></script>
+            <script>
+                $("#menu").vm_img({
+                    path_img: base_url + "includes/home/images/"
+                });
+            </script>
+            <div class="student-testimonials-wrap" id="left_mmu">
+                <div class="container">
+                    <h2 class="box_underline1">TESTIMONIALS</h2>
+                    <center><img src="includes\home\images\title_line11.png"></center>
+                    <br clear="all">
+                    <div class="student-testimonials">
+                        <section id="carousel">    				
+                            <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="5000">				 
+                                <ol class="carousel-indicators">
+                                    <li data-target="#fade-quote-carousel" data-slide-to="0" class="active"></li>
+                                    <li data-target="#fade-quote-carousel" data-slide-to="1"></li>
+                                    <li data-target="#fade-quote-carousel" data-slide-to="2"></li>
+                                    <li data-target="#fade-quote-carousel" data-slide-to="3"></li>
+                                    <li data-target="#fade-quote-carousel" data-slide-to="4"></li>
+                                    <li data-target="#fade-quote-carousel" data-slide-to="5"></li>
+<li data-target="#fade-quote-carousel" data-slide-to="6"></li>
+                                </ol>
+                                <div class="carousel-inner">
+                                    <div class="active item">
+                                        <div class="row">
+
+                                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
+                                                <div class="stestimonials-bg stestimonials-first">
+                                                    <p>MMDU acts as a single soul with an objective of providing world class learning experience and light up each and every student not to become an Engineer only but also a responsible human being.</p>
+                                                </div>
+                                                <div class="stestimonials-author"> <img class="img-responsive" src="dwnload\images\alumini_pic\Rahul_Gupta.jpg" alt="Rahul_Gupta">
+                                                    <h4>Rahul Gupta</h4>
+                                                    <p>Senior  Manager, Digital Banking Group, ICICI Bank Ltd.</p>
+
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
+                                                <div class="stestimonials-bg stestimonials-first">
+                                                    <p>For me MMDU was the stepping stone for my future; it groomed me to make me what I am today. </p>
+                                                </div>
+                                                <div class="stestimonials-author"> <img class="img-responsive" src="dwnload\images\alumini_pic\Animesh_ Sharma.jpg" alt="Animesh_">
+                                                    <h4>Animesh Sharma</h4>
+                                                    <p>Director, Laundry Systems, Gulf Cooperation Council (GCC), Electrolux Professional</p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class=" item">
+                                        <div class="row">
+
+                                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
+                                                <div class="stestimonials-bg stestimonials-first">
+                                                    <p>MMDU is not just a University but a harbinger of innovative ideas where there is always a strong tussle between knowledge and ignorance. </p>
+                                                </div>
+                                                <div class="stestimonials-author"> <img class="img-responsive" src="dwnload\images\alumini_pic\Shubham_Sharma.png" alt="Shubham_Sharma">
+                                                    <h4>Shubham Sharma Badyal</h4>
+                                                    <p>Asisstant Structure Designer, Konkan Railways Ltd.</p>
+
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
+                                                <div class="stestimonials-bg stestimonials-first">
+                                                    <p>M.M. University provides me excellent education during my course of 4 years. I would recommend everyone to go through M.M. University for their courses because of the committed staff they have.</p>
+                                                </div>
+                                                <div class="stestimonials-author"> <img class="img-responsive" src="dwnload\images\alumini_pic\Sukhjinder_singh.jpg" alt="Sukhjinder_singh">
+                                                    <h4>Sukhjinder Singh</h4>
+                                                    <p>Senior Electrical Engineer, Larsen & Toubro</p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class=" item">
+                                        <div class="row">
+
+                                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
+                                                <div class="stestimonials-bg stestimonials-first">
+                                                    <p>I feel short of words in expressing my feelings when I talk of MMEC as a pioneer institute who has delivered a lot in making me successful. So I owe so much to MMEC and of course the wonderful staff who encouraged me along the way.</p>
+                                                </div>
+                                                <div class="stestimonials-author"> <img class="img-responsive" src="dwnload\images\alumini_pic\Hardeep_Singh.jpg" alt="Hardeep_Singh">
+                                                    <h4>Hardeep Singh</h4>
+                                                    <p>Sr. Software Engineer/Project Lead Cubic Corporation, San Diego,California, USA</p>
+
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
+                                                <div class="stestimonials-bg stestimonials-first">
+                                                    <p>MMDU is the place where I have started my carrier oriented education and I got everything for fulfill my dreams. I am very thankful to the MMDU and its faculty. </p>
+                                                </div>
+                                                <div class="stestimonials-author"> <img class="img-responsive" src="dwnload\images\alumini_pic\Vishal_singhal.jpg" alt="Vishal_singhal">
+                                                    <h4>Vishal Singhal </h4>
+                                                    <p>Project Manager, Health Direct, Australia</p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class=" item">
+                                        <div class="row">
+
+                                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
+                                                <div class="stestimonials-bg stestimonials-first">
+                                                    <p>MMEC is best college in terms of available streams that aligns with my goals, excellent study environment and placement opportunities."</p>
+                                                </div>
+                                                <div class="stestimonials-author"> <img class="img-responsive" src="dwnload\images\alumini_pic\Nadeem_Ansari.jpg" alt="Nadeem_Ansari">
+                                                    <h4>Nadeem Ansari</h4>
+                                                    <p>Technical Leader, ARICENT</p>
+
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
+                                                <div class="stestimonials-bg stestimonials-first">
+                                                    <p>“Since childhood, I aspired to be a Software Engineer whom people can look upto. As MMEC is envisioned to develop future software engineers, MMEC was my first choice for continuing my education after schooling. If given a chance, i would love to do my phd from MM group of institutions.”</p>
+                                                </div>
+                                                <div class="stestimonials-author"> <img class="img-responsive" src="dwnload\images\alumini_pic\Sarabjeet_Singh.jpg" alt="Sarabjeet_Singh">
+                                                    <h4>Sarabjeet Singh</h4>
+                                                    <p>Associate Consultant Company, TCS</p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class=" item">
+                                        <div class="row">
+
+                                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
+                                                <div class="stestimonials-bg stestimonials-first">
+                                                    <p>"It had been great experience to be associated with MMEC, which enabled me to get up from one of remote area and work in Fortune ONE Company – Walmart."</p>
+                                                </div>
+                                                <div class="stestimonials-author"> <img class="img-responsive" src="dwnload\images\alumini_pic\Parveen_Kumar.jpg" alt="Parveen_Kumar">
+                                                    <h4>Parveen Kumar </h4>
+                                                    <p>Sr. Technical Lead, Walmart Labs</p>
+
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
+                                                <div class="stestimonials-bg stestimonials-first">
+                                                    <p>MMDU is one of the fastest growing universities. More and more companies come in every year for placing the students at MMDU. What more do students require now !!</p>
+                                                </div>
+                                                <div class="stestimonials-author"> <img class="img-responsive" src="dwnload\images\alumini_pic\Bhajan_Mehta.jpg" alt="Bhajan_Mehta">
+                                                    <h4>Bhajan Mehta</h4>
+                                                    <p>Developer, DATACOM, New Zealand</p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class=" item">
+                                        <div class="row">
+
+                                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
+                                                <div class="stestimonials-bg stestimonials-first">
+                                                    <p>The MMDU is a university with diversity and global existence. If you have potential then it’s a right place for you. Experimental Learning seeds confident in students to be an entrepreneur and make them demandable in industry.</p>
+                                                </div>
+                                                <div class="stestimonials-author"> <img class="img-responsive" src="dwnload\images\alumini_pic\Upma_sharma.jpg" alt="Upma_sharma">
+                                                    <h4>UPMA SHARMA</h4>
+                                                    <p>Senior Systems Engineer, Infosys, Melbourne</p>
+
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
+                                                <div class="stestimonials-bg stestimonials-first">
+                                                    <p>MMEC helped me to shape my future. Even now also, when I visit MMDU campus, I find that it’s a nonstop growing organization. There is development in all departments which is very important for growth of students and the institute.</p>
+                                                </div>
+                                                <div class="stestimonials-author"> <img class="img-responsive" src="dwnload\images\alumini_pic\manoj.jpg" alt="manoj">
+                                                    <h4>Manoj Bansal</h4>
+                                                    <p>Portfolio Manager,Tata Consultancy Services,New Jersey,USA. </p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+									<div class=" item">
+                                        <div class="row">
+
+                                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
+                                                <div class="stestimonials-bg stestimonials-first">
+                                                    <p>I feel proud to be a part of M.M. University, Mullana as faculty member since 2009 and thank from the bottom of my heart to the University for creating research environment and providing every possible facility to us whenever we needed.</p>
+                                                </div>
+                                                <div class="stestimonials-author"> <img class="img-responsive" src="dwnload\images\alumini_pic\vinod_kumar.jpg" alt="vinod_kumar">
+                                                    <h4>Dr. Vinod Kumar, Assistant Professor</h4>
+                                                    <p>Department of Chemistry MMU, Mullana<br><h5 style="color:white;">Haryana Yuva Vigyan Ratna Award for 2015-16</h5>
+
+                                                </div>
+                                            </div>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>          
+                    </div>
+
+                </div>
+            </div>     
+            <br clear="all">
+           <!-- footer code -->
+           
+<footer> 
+    <img src="includes\home\images\footer_top_img.png">
+    <div class="footer main_footer">        
+        <div class="footwrap-list">
+            <div class="container" style="padding-bottom:30px;">
+                <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                            <div class="ft-menu">
+                                <h3>Quick Links</h3>
+                                <ul>
+                                    <li><a href="link\mmu-access-map.htm">MMDU Access Map</a></li>
+                                    <li><a href="link\e-resources.htm">e-Resources</a></li>
+                                    <li><a href="link\sustainability.htm">Sustainability</a></li>
+                                    <li><a href="link\nirf-india-ranking.htm">NIRF India Ranking</a></li>
+                                    <li><a href="top\downloads.htm">Downloads</a></li>                                    
+                                    <li><a href="fee-structure.htm">Fee Structure</a></li>
+                                    <li><a href="dwnload\pdf\e-Courts.pdf">e-Courts</a></li>
+                                    <li><a href="https://admission.nopaperforms.com/maharishi-markandeshwar-university" target="_blank">Online Admission Form</a></li>
+                                </ul>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                            <div class="ft-menu">
+                                <h3>Quick Links</h3>
+                                <ul>                
+                                    <li><a href="link\iqac.htm">IQAC</a></li>
+                                    <li><a href="home\careers.htm">Jobs@MMDU</a></li>
+                                    <li><a href="link\disclaimer.htm">Disclaimer</a></li>
+                                    <!-- <li><a href="#">Media</a></li>-->
+                                    <li><a href="academic-calendar-2017-18.htm">Academic Calendar</a></li>
+                                 <!--   <li><a href="https://www.mmumullana.org/link/photo-gallery">Photogallery</a></li>-->
+                                    <li><a href="link\video-gallery.htm">Video Gallery</a></li>
+                                    <li><a href="top\contact-us.htm">Contact Us</a></li>
+                                    <li><a href="home\demo.htm">SC/ST Cell</a></li>                                    
+                                </ul>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                    <div class="ft-newsletter">
+                        <h3>Other Universities under MMUT</h3>
+                        <h4> <a href="http://www.mmambala.org" target="_blank">MMU, Sadopur </a></h4>
+                        <span style="color:rgb(51,51,51);"> Established Under Haryana Govt. Act. No.29 of 2010 </span>
+                        <br clear="all"><br>
+                        <h4><a href="http://www.mmusolan.org" target="_blank">MMU, Solan </a></h4>
+                        <span style="color:rgb(51,51,51);">Established Under H.P. Govt. Act. No. 22 of 2010 </span>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                    <div class="ft-contact">
+                        <h3>Get in Touch</h3>
+                        <div class="ft-contact-details">
+
+
+                            <p><strong>MAHARISHI MARKANDESHWAR (DEEMED TO BE UNIVERSITY)</strong><br>
+                                <a href="#">Mullana, Ambala (Haryana)<br>
+                                    <strong> Landline No:</strong>+91-1731-274475,76,77,78<br>
+                                    <strong>Toll Free: </strong> 1800 2740 240<p>  </a>
+                            <p> <strong>Email:</strong>&nbsp;<a href="mailto:info@mmumullana.org">info@mmumullana.org</a></p>                                                                             
+                        </div>
+                    </div>
+                </div>
+                <br clear="all"><br clear="all">
+                <div class="col-md-12 bot_menu">
+                    
+                    <ul class="list-inline" style="border-left:4px solid #CA1818;">
+                                                    <li><a href="index-1.htm">Home &nbsp;&nbsp;/</a></li>
+                                                            <li><a href="home\careers.htm">Careers &nbsp;&nbsp;/</a></li>
+                                                            <li><a href="top\downloads.htm">Downloads &nbsp;&nbsp;/</a></li>
+                                                            <li><a href="alumni\index.htm">Alumni &nbsp;&nbsp;/</a></li>
+                                                            <li><a href="top\international-students.htm">International Students &nbsp;&nbsp;/</a></li>
+                                                            <li><a href="top\anti-ragging.htm">Anti-Ragging &nbsp;&nbsp;/</a></li>
+                                                            <li><a href="https://sms.mmumullana.org">Student Login &nbsp;&nbsp;/</a></li>
+                                                            <li><a href="https://accounts.google.com/AddSession?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&hd=mmumullana.org&sacu=1#identifier">Webmail &nbsp;&nbsp;/</a></li>
+                                                            <li><a href="top\contact-us.htm">Contact Us &nbsp;&nbsp;/</a></li>
+                                                            <li><a href="https://blog.mmumullana.org/">Blog &nbsp;&nbsp;/</a></li>
+                                                            <li><a href="home\sitemap.htm">Sitemap &nbsp;/ </a> </li>
+                            <li><a href="custom\audit-reports.htm">Audit Report</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="copyright-wrap" style="background:rgb(51,51,51);padding:10px;">
+                <div class="container">
+                    <div class="col-lg-8 col-md-8 col-xs-12">                                     
+                        Copyright &copy; 2018 MAHARISHI MARKANDESHWAR (DEEMED TO BE UNIVERSITY). All rights reserved.<p>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-xs-12">
+                        Website Designed & Developed: IT Cell, MMDU, Mullana
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    
+    <!--- facebook chat code start-------------->
+    
+    <style>.fb-livechat,.fb-widget{display:none}.ctrlq.fb-button,.ctrlq.fb-close{position:fixed;right:24px;cursor:pointer}.ctrlq.fb-button{z-index:1;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDEyOCAxMjgiIGhlaWdodD0iMTI4cHgiIGlkPSJMYXllcl8xIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB3aWR0aD0iMTI4cHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnPjxyZWN0IGZpbGw9IiMwMDg0RkYiIGhlaWdodD0iMTI4IiB3aWR0aD0iMTI4Ii8+PC9nPjxwYXRoIGQ9Ik02NCwxNy41MzFjLTI1LjQwNSwwLTQ2LDE5LjI1OS00Niw0My4wMTVjMCwxMy41MTUsNi42NjUsMjUuNTc0LDE3LjA4OSwzMy40NnYxNi40NjIgIGwxNS42OTgtOC43MDdjNC4xODYsMS4xNzEsOC42MjEsMS44LDEzLjIxMywxLjhjMjUuNDA1LDAsNDYtMTkuMjU4LDQ2LTQzLjAxNUMxMTAsMzYuNzksODkuNDA1LDE3LjUzMSw2NCwxNy41MzF6IE02OC44NDUsNzUuMjE0ICBMNTYuOTQ3LDYyLjg1NUwzNC4wMzUsNzUuNTI0bDI1LjEyLTI2LjY1N2wxMS44OTgsMTIuMzU5bDIyLjkxLTEyLjY3TDY4Ljg0NSw3NS4yMTR6IiBmaWxsPSIjRkZGRkZGIiBpZD0iQnViYmxlX1NoYXBlIi8+PC9zdmc+) center no-repeat #0084ff;width:60px;height:60px;text-align:center;bottom:24px;border:0;outline:0;border-radius:60px;-webkit-border-radius:60px;-moz-border-radius:60px;-ms-border-radius:60px;-o-border-radius:60px;box-shadow:0 1px 6px rgba(0,0,0,.06),0 2px 32px rgba(0,0,0,.16);-webkit-transition:box-shadow .2s ease;background-size:80%;transition:all .2s ease-in-out}.ctrlq.fb-button:focus,.ctrlq.fb-button:hover{transform:scale(1.1);box-shadow:0 2px 8px rgba(0,0,0,.09),0 4px 40px rgba(0,0,0,.24)}.fb-widget{background:#fff;z-index:2;position:fixed;width:360px;height:435px;overflow:hidden;opacity:0;bottom:0;right:24px;border-radius:6px;-o-border-radius:6px;-webkit-border-radius:6px;box-shadow:0 5px 40px rgba(0,0,0,.16);-webkit-box-shadow:0 5px 40px rgba(0,0,0,.16);-moz-box-shadow:0 5px 40px rgba(0,0,0,.16);-o-box-shadow:0 5px 40px rgba(0,0,0,.16)}.fb-credit{text-align:center;margin-top:8px}.fb-credit a{transition:none;color:#bec2c9;font-family:Helvetica,Arial,sans-serif;font-size:12px;text-decoration:none;border:0;font-weight:400}.ctrlq.fb-overlay{z-index:0;position:fixed;height:100vh;width:100vw;-webkit-transition:opacity .4s,visibility .4s;transition:opacity .4s,visibility .4s;top:0;left:0;background:rgba(0,0,0,.05);display:none}.ctrlq.fb-close{z-index:4;padding:0 6px;background:#365899;font-weight:700;font-size:11px;color:#fff;margin:8px;border-radius:3px}.ctrlq.fb-close::after{content:'x';font-family:sans-serif}</style>
+<div class="fb-livechat">
+  <div class="ctrlq fb-overlay"></div>
+  <div class="fb-widget">
+    <div class="ctrlq fb-close"></div>
+    <div class="fb-page" data-href="https://www.facebook.com/MMDUmullana/" data-tabs="messages" data-width="360" data-height="400" data-small-header="true" data-hide-cover="true" data-show-facepile="false">
+      <blockquote cite="https://www.facebook.com/MMDUmullana/" class="fb-xfbml-parse-ignore"> </blockquote>
+    </div>
+    <div id="fb-root"></div>
+  </div>
+  <a href="https://m.me/MMDUmullana" title="Send us a message on Facebook" class="ctrlq fb-button"></a> 
+</div>
+    
+<script src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script>$(document).ready(function(){var t={delay:125,overlay:$(".fb-overlay"),widget:$(".fb-widget"),button:$(".fb-button")};setTimeout(function(){$("div.fb-livechat").fadeIn()},8*t.delay),$(".ctrlq").on("click",function(e){e.preventDefault(),t.overlay.is(":visible")?(t.overlay.fadeOut(t.delay),t.widget.stop().animate({bottom:0,opacity:0},2*t.delay,function(){$(this).hide("slow"),t.button.show()})):t.button.fadeOut("medium",function(){t.widget.stop().show().animate({bottom:"30px",opacity:1},2*t.delay),t.overlay.fadeIn(t.delay)})})});</script>
+    
+    <!--- end code------------------------------>
+    
+    
+    
+    <!------------NPF Advanced Campaign Tracking Code start------------->
+
+<script type="text/javascript"> var npf_d='https://admission.mmumullana.org'; var npf_c='85'; var npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.src="https://track.nopaperforms.com/js/tracker.js"; document.body.appendChild(s); </script> 
+
+<!------------NPF Advanced Campaign Tracking Code end------------->
+    
+</footer>
+<script type="text/javascript" src="includes\home\js\script.js"></script>
+            <script>
+                $(document).ready(function() {
+
+
+       $("div.search-side span").html("");
+                });
+            </script>
+            
+            
+            
+<!--------facebook chat code---------->            
+            
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : 'your-app-id',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v2.12'
+    });
+  };
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="fb-customerchat" page_id="389747404501327" theme_color="#fa3c4c" logged_in_greeting="Welcome to MMDU Mullana. We'll get back to you soon. Contact Us: 80599 33008 " logged_out_greeting="Welcome to MMDU Mullana. We'll get back to you soon. Contact Us: 80599 33008 ">
+</div>
+
+<!-----------end facebook chat code----------->
+                       <!-- end footer code-->
+        </div>
+    </body>
+
+</html>
